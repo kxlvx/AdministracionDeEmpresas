@@ -1,36 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Programa creado para administrar empresas
+Creado con Next.js, Clerk, Tailwind y Shadcn
+Registro --> Se puede registrar e ingresar con Google, Facebook o Email
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 20 59 p  m" src="https://github.com/user-attachments/assets/c52922d5-3d99-4cfe-98a0-50b11b97607c">
 
-## Getting Started
+Luego de registrarse se puede acceder al panel de administración
 
-First, run the development server:
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 25 07 p  m" src="https://github.com/user-attachments/assets/2db29474-2405-4912-919e-54719d2976fc">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 16 43 p  m" src="https://github.com/user-attachments/assets/7bed90fe-aca0-4472-bb45-70ca1337e6e9">
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+El panel de administración esta disponible en modo claro y oscuro
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 26 22 p  m" src="https://github.com/user-attachments/assets/7c66a764-a3cb-45e2-92b5-22e8c83151ea">
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+El diseño es responsive
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 27 55 p  m" src="https://github.com/user-attachments/assets/3e0a4f66-4500-46b4-998d-791b3c467245">
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 28 38 p  m" src="https://github.com/user-attachments/assets/931252a5-6de3-42ea-9c95-7472e8c6765a">
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img width="1440" alt="Captura de pantalla 2024-08-16 a la(s) 12 29 06 p  m" src="https://github.com/user-attachments/assets/0e064153-20fd-4440-b485-f84b754a1ab9">
